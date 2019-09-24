@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-up" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="../../desktop/assets/til.tsx"/>
+ <layer id="1" name="Rutelag 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKHrH/YzDJZDwVVTVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/AeWzUv0=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Objektlag 1"/>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-up" width="25" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="44">
+ <tileset firstgid="1" source="rutebrett.tsx"/>
+ <layer id="1" name="Rutelag 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzbw8jAsGcUj+JhgM2YMMVWMEAwiC3EBMEDYQeyGmLsQLeHmnbAzKeHHbQMq1E7aG8HTJ5YO7CJU9MOXHig7UA2nx52kGs+oTRDSzvQw4ga4UQMHsx2UIpdmRkYAHtyqyI=
+  </data>
+ </layer>
+ <objectgroup id="3" name="collision">
+  <object id="31" x="386" y="225" width="63" height="416"/>
+  <object id="32" x="130" y="226" width="28" height="60"/>
+  <object id="33" x="130" y="291" width="61" height="59"/>
+  <object id="34" x="97" y="322" width="30" height="221"/>
+  <object id="35" x="129" y="351" width="31" height="160"/>
+  <object id="37" x="293" y="226" width="56" height="537"/>
+  <object id="38" x="261" y="704" width="345" height="61"/>
+  <object id="39" x="451" y="674" width="155" height="29"/>
+  <object id="40" x="547" y="481" width="59" height="194"/>
+  <object id="41" x="516" y="576" width="27" height="98"/>
+  <object id="42" x="579" y="256" width="28" height="227"/>
+  <object id="43" x="610" y="258" width="27" height="348"/>
+ </objectgroup>
+</map>

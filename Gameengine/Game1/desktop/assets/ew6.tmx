@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-up" width="250" height="250" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="27">
+ <tileset firstgid="1" source="rutebrett.tsx"/>
+ <layer id="1" name="Rutelag 1" width="250" height="250">
+  <data encoding="base64" compression="zlib">
+   eJzt2jEKwCAMQFGP77G7i5Q4lCbxPXCyg8tHsBkDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYfx8A+NxcFtCb3uEeb3f8urdbQC2nHesc+nOnwx10Dv3pHPrTOdQTeWOfm++BOiLN6hxqi3buHzrkcTrfolvI62RmzYwbAOTzAIV6J9k=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Objektlag 1">
+  <object id="2" x="-1" y="7904" width="33" height="96"/>
+  <object id="3" x="34" y="7817" width="188" height="118"/>
+  <object id="4" x="224" y="7585" width="192" height="317"/>
+  <object id="5" x="418" y="7614" width="61" height="321"/>
+  <object id="6" x="480" y="7646" width="95" height="288"/>
+  <object id="7" x="576" y="7679" width="32" height="257"/>
+  <object id="8" x="610" y="7678" width="351" height="128"/>
+  <object id="9" x="961" y="7708" width="29" height="165"/>
+  <object id="10" x="930" y="7807" width="29" height="63"/>
+  <object id="11" x="736" y="7649" width="223" height="27"/>
+  <object id="12" x="219" y="7446" width="102" height="137"/>
+  <object id="13" x="325" y="7454" width="757" height="65"/>
+  <object id="14" x="353" y="7517" width="704" height="36"/>
+  <object id="15" x="449" y="7551" width="610" height="31"/>
+  <object id="16" x="512" y="7583" width="545" height="34"/>
+  <object id="17" x="608" y="7616" width="96" height="34"/>
+  <object id="18" x="991" y="7619" width="100" height="60"/>
+  <object id="19" x="1025" y="7677" width="63" height="131"/>
+  <object id="20" x="1054" y="7806" width="34" height="166"/>
+  <object id="21" x="1026" y="7873" width="29" height="96"/>
+  <object id="22" x="641" y="7905" width="384" height="64"/>
+  <object id="23" x="642" y="7839" width="254" height="65"/>
+  <object id="24" x="384" y="7971" width="290" height="26"/>
+  <object id="25" x="258" y="7936" width="123" height="62"/>
+  <object id="26" x="33" y="7969" width="225" height="30"/>
+ </objectgroup>
+</map>

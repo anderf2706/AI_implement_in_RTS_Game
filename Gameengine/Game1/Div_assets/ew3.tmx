@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-up" width="25" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="15">
+ <tileset firstgid="1" source="rutebrett.tsx"/>
+ <layer id="1" name="Rutelag 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzbw8jAsGcUj+JhgM2Y8MsLMUHwULADnz2U2gEznx520DKsRu0YfHYQUkON/DFqxygexRDsyszAAACzHrKE
+  </data>
+ </layer>
+ <objectgroup id="3" name="collision">
+  <object id="7" x="100" y="228" width="83" height="289"/>
+  <object id="14" x="200" y="66" width="150" height="141"/>
+ </objectgroup>
+</map>
